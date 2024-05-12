@@ -11,12 +11,12 @@ RegisterCommand('notifica', function()
         title = "Legacy Framework",
         position = "top",
         bgColor = "#000000",
-        duration = 6
+        duration = 6 -- in seconds
     })
 end)
 
 -- Example Notification Server side
-RegisterCommand('notificasv', function(source, args, rawCommand)
+RegisterCommand('notificasv', function(source)
     TriggerClientEvent('LGF_Notify:ServerNotify', source, {
         icon = "fa-solid fa-info-circle",
         colorIcon = "#FFA500",
