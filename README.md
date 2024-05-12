@@ -1,10 +1,19 @@
 [![discord](https://img.shields.io/badge/Join-Legacy%20Scripts-orange?logo=discord&logoColor=white)](https://discord.gg/legacyscripts)
 
+
+
 > [!CAUTION]
 > This Lua script is distributed under the GNU General Public License (GPL).
 > You are free to use and modify this script, but you must comply with the terms of the GPL.
 > You cannot sell or distribute this script as your own work.
 > See https://www.gnu.org/licenses/gpl-3.0.html for the full text of the GPL.
+
+<hr style="border-radius: 50%; margin: 0 25px;">
+
+> [!TIP]
+> Create custom notifications for your pleasure
+> No Notification Presets
+<hr style="border-radius: 50%; margin: 0 25px;">
 
 
 
