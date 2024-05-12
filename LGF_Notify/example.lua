@@ -1,7 +1,5 @@
 ---@diagnostic disable: missing-parameter
 
-
-
 -- Example Notification client side
 RegisterCommand('notifica', function()
     exports.LGF_Notify:SendNotification({
