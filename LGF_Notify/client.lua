@@ -16,7 +16,7 @@ function NotifyExports(data)
     local colorIcon <const> = data.colorIcon or '#343A40'
     local message <const> = data.message or ""
     local title <const> = data.title or "Title"
-    local position <const> = data.position or "top-right" -- top-left / top / top-right
+    local position = data.position or "top-right" -- top-left / top / top-right
     local bgColor <const> = data.bgColor or "#343A40"
     local duration <const> = data.duration * 1000 or 4000
 
