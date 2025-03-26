@@ -21,10 +21,6 @@ function NotifyExports(data)
     local duration <const> = data.duration * 1000 or 4000
 
 
-    if not position then
-        position = 'top-right'
-    end
-
     SendNUIMessage({
         action = "showNotification",
         icon = icon,
